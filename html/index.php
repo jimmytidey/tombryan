@@ -63,7 +63,7 @@
 		
 		<div id="tabs-2">
 			<h2>Commercial Recording Engineering</h2>
-			<p>Working as a freelance engineer I've recorded numerous performances for commercial and sync at <a href='http://smokehousestudios.co.uk/'>Smokehouse Studios<a>.</p>
+			<p>I've recorded numerous performances for commercial and sync at <a href='http://smokehousestudios.co.uk/'>Smokehouse Studios<a>.</p>
 			<p>Smokehouse is a major London studio, clients have included The Kooks, Level 42 and Jack Bruce. The studio also work on soundtracks.</p> 	
 				
 		
