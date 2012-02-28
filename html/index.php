@@ -95,9 +95,9 @@
 		<div id="tabs-5">
 			<h2>Commissioned compositions</h2>
 			<p>I compose and record pieces to brief in my home studio. My previous work has focussed on theatre and dance, and I regularly work with <a href='http://chimaerafirecrew.co.uk/'>Chimaera Fire Crew</a>.</p>
-		
+			
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F21515006&show_artwork=false"></iframe>		
 			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15580800&show_artwork=false"></iframe>		
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F21515006&show_artwork=false"></iframe>
 		</div>
 		
 		<div id="tabs-6">
