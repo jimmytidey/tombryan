@@ -28,3 +28,16 @@ h2 {
 	position:absolute;
 	right:0px;
 }
+
+body {
+font-family: Verdana,Arial,Helvetica,sans-serif;
+font-size: 12px;
+background: #FFFFFF;
+line-height: 14px;
+}
+
+h1 {
+	font-size: 160%;
+	font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	margin: 10px 0;
+	line-height: 130%;

@@ -44,7 +44,7 @@ $subject_prefix = 'My Website Contact';
 
 /* Name of the file where you are including the contact form */
 
-$where_included = '';
+$where_included = 'index.php';
 
 /*******************************************************************************
  *	OPTIONAL
