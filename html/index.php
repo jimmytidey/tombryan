@@ -77,9 +77,10 @@
 			<p>I'm technical manager at <a href='http://www.chantrysound.co.uk/'>Chantry Sound</a>. Chantry Sound make on-site classical and organ recordings. I also record bands and soloists in their homes or in locations chosen for their acoustics.</p>
 			<p>I have my own recording equipment which allows me to make excellent recordings in challenging locations:</p>
 			<ul>
-				<li>Macbook Pro/ Logic Pro/ Motu 896 MK3 / 8pre</p>
+				<li>Logic Pro / Motu 896 MK3 / 8pre</p>
 				<li>Mics from AKG, Shure, Nakamichi, SE</p>
 				<li>Genelec and Sennheiser monitoring</p>
+				<li>Headphone amps, stands, etc.</p>
 			</ul>
 		
 			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F19146464&show_artwork=false"></iframe>	
@@ -101,12 +102,19 @@
 		
 		<div id="tabs-6">
 			<h2>Contact Me</h2>
-			Email: tb1983 at googlemail dot com 
+			
+			<center>
+			<img src='resources/headphones.png' alt='Tom with a small head' />
+			
+			
+			<p>Email: tb1983 at googlemail dot com</p> 
 			
 		<br/><br/>
 			<? include('contact-form.php'); ?>
-			
+		
+			</center>
 		</div>	
+		
 	</div>
 	
 	
