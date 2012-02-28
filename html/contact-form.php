@@ -201,7 +201,6 @@ echo <<<EOD
 <!-- Removing the attribution link without obtaining a licence is illegal and prohibited -->
 <!-- Check out Branding Removal option at http://www.easyphpcontactform.com/ -->
 <div style="width:100%;text-align:right;font-size:80%;margin-top: 0;">
-<a href="http://www.easyphpcontactform.com/" title="PHP Contact Form" target="_blank">PHP Contact Form</a>
 </div>
 </div>
 EOD;

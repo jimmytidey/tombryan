@@ -51,8 +51,11 @@
 			
 			<p>I perform in a number of bands, including the house band of <a href='http://www.bristolram.com/br/live-music-11.html'>The Bristol Ram</a>.</p>
 		
+			<center>
 			<h2>Contact Me</h2>
+			
 			<? include('contact-form.php'); ?>
+			</center>
 		</div>
 		
 		<div id="tabs-2">
