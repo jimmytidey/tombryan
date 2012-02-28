@@ -42,27 +42,32 @@
 				<li><a href="#tabs-3">Location</a></li>
 				<li><a href="#tabs-4">Production</a></li>
 				<li><a href="#tabs-5">Composition</a></li>
+				<li><a href="#tabs-6">Contact</a></li>				
 			</ul>
 		<div id="tabs-1">
 			
-			<h3>I'm a Bristol based recording engineer, composer and session musician.</h3>
+			<h3>I'm a Bristol-based recording engineer, composer and session musician.</h3>
 			
-			<p>Available for location recording, studio engineering and production, session bass playing and commissioned compositions. I'm also technical director at <a href='http://www.chantrysound.co.uk/'>Chantry Sound</a> which specialises in choral recording.</p> 
+			<p>Available for location recording, studio engineering and production, session bass playing and commissioned compositions. I'm associated with the following organisations:
+				<ul>
+					<li>Technical Director at <a href='http://www.chantrysound.co.uk/'>Chantry Sound</a>, specialising in choral recording.</li>
+					<li>Freelance engineer at <a href='http://smokehousestudios.co.uk/'>Smokehouse Studios</a></li>
+					<li>Freelance engineer at <a href='http://www.factorystudios.co.uk/'>Factory Studios</a> in Bristol</li>					
+					<li>Installation engineer at the <a href='http://en.wikipedia.org/wiki/Ronnie_Lane%27s_Mobile_Studio'>Ronnie Lane Mobile Studio</a></li>
+					<li>Composer for <a href='http://chimaerafirecrew.co.uk/'>Chimaera Fire Crew</a>, Bristol-based performers.</li>					
+				</ul>
 			
-			<p>I perform in a number of bands, including the house band of <a href='http://www.bristolram.com/br/live-music-11.html'>The Bristol Ram</a>.</p>
-		
-			<center>
-			<h2>Contact Me</h2>
-			
-			<? include('contact-form.php'); ?>
-			</center>
+				<center>
+	
 		</div>
 		
 		<div id="tabs-2">
 			<h2>Commercial Recording Engineering</h2>
 			<p>Working as a freelance engineer I've recorded numerous performances for commercial and sync at <a href='http://smokehousestudios.co.uk/'>Smokehouse Studios<a>.</p>
+			<p>Smokehouse is a major London studio, clients have included The Kooks, Level 42 and Jack Bruce. The studio also work on soundtracks.</p> 	
+				
 		
-			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32801&amp;show_artwork=false"></iframe>
+			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32801&show_artwork=false"></iframe>
 		
 			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32810&amp;auto_play=false&amp;show_artwork=false"></iframe>
 		</div>
@@ -88,16 +93,26 @@
 		
 		<div id="tabs-5">
 			<h2>Commissioned compositions</h2>
-			<p>I compose and record compositions to brief in my home studio. My previous work has focussed on theatre and dance.</p>
+			<p>I compose and record compositions to brief in my home studio. My previous work has focussed on theatre and dance, and I regularly work with <a href='http://chimaerafirecrew.co.uk/'>Chimaera Fire Crew</a>.</p>
 		
 			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15580800&show_artwork=false"></iframe>		
 			<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F21515006&show_artwork=false"></iframe>
 		</div>
+		
+		<div id="tabs-6">
+			<h2>Contact Me</h2>
+
+			<? include('contact-form.php'); ?>
+			</center>
+		</div>	
 	</div>
-
 	
-</div> 
+	
+</div>
 
+
+ 
+<!-- 
  <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -111,5 +126,6 @@
   })();
 
 </script>
+-->
 </body> 
 </html> 

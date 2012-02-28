@@ -1,18 +1,32 @@
+body { 
+	background-image:url(../resources/background.png);
+	background-repeat:repeat;
+}
+
 #container {
-	position:absolute;
-	width: 600px; 
-	left:50%; 
-	margin-left:-300px; 
-	border-top:4px solid black; 
-	height:970px;
+	position:relative;
+	width: 620px; 
 	padding:15px 0px;
-	font-family:“Helvetica Neue”, Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size:12px;
 	line-height:18px;
+	background-color:white;
+	padding:10px;
+	margin:10px auto;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	background: #FFFFFF;
+	line-height: 14px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);	
+	margin-bottom:30px;
 }
 
 h2 { 
 	margin-top:3em;
+}
+
+p,ul { 
+	line-height:18px;
 }
 
 #title { 
@@ -20,20 +34,13 @@ h2 {
 }
 
 #right_column { 
-	width:600px;
+	width:610px;
 	margin-top:100px;
 }
 
 #header_image { 
 	position:absolute;
-	right:0px;
-}
-
-body {
-font-family: Verdana,Arial,Helvetica,sans-serif;
-font-size: 12px;
-background: #FFFFFF;
-line-height: 14px;
+	right:10px;
 }
 
 h1 {
@@ -41,3 +48,34 @@ h1 {
 	font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
 	margin: 10px 0;
 	line-height: 130%;
+}
+
+h2, h3 { 
+	font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Overwriting jQuery */ 
+
+.ui-widget-header {
+	border:none!important;
+}		
+	
+.ui-widget-header { 
+	background:none!important;
+	
+}
+
+
+.ui-widget-content {
+	border:none!important;
+	background:none!important;
+	
+}	
+
+
+.ui-tabs-panel { 
+	background-color:white!important;
+	border: 1px solid #DDDDDD!important;
+}
+
+	

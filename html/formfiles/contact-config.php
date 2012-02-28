@@ -36,7 +36,7 @@
 
 /* Email address where the messages should be delivered */
 
-$to = 'jimmytidey@gmail.com';
+$to = 'tb1983@googlemail.com';
 
 /* This will be appended to the subject of contact form message */
 
@@ -81,7 +81,7 @@ $footer_file = 'formfiles/contact-footer.php';
 
 $thank_you_message = <<<EOD
 <!-- Start message -->
-<p><strong>We have received your message. If required, we'll get back to you as soon as possible.</strong></p>
+<p><strong>I have received your message. I'll get back to you as soon as possible.</strong></p>
 <!-- End message -->
 EOD;
 
