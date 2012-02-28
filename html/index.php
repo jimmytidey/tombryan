@@ -54,7 +54,7 @@
 					<li>Freelance engineer at <a href='http://smokehousestudios.co.uk/'>Smokehouse Studios</a></li>
 					<li>Freelance engineer at <a href='http://www.factorystudios.co.uk/'>Factory Studios</a> in Bristol</li>					
 					<li>Installation engineer at the <a href='http://en.wikipedia.org/wiki/Ronnie_Lane%27s_Mobile_Studio'>Ronnie Lane Mobile Studio</a></li>
-					<li>Composer for <a href='http://chimaerafirecrew.co.uk/'>Chimaera Fire Crew</a>, Bristol-based performers.</li>					
+					<li>Composer for <a href='http://chimaerafirecrew.co.uk/'>Chimaera Fire Crew</a>, Bristol fire performers</li>					
 				</ul>
 			
 				<center>
